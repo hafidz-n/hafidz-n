@@ -46,6 +46,8 @@ interactive frontend experiments.
 - 40% performance improvement via SSR, ISR, lazy loading, code splitting, and techstacks modernization on [Female Daily](https://femaledaily.com/)
 - ISO 27001 audit passed with zero critical vulnerabilities on [Akar Inti Data](https://akarintidata.com/)
 - 3rd place — Toptal Global Speed Coding Challenge, Indonesia (2021)
+- Twittie (2020) — Twitter clone with real-time chat, image cropping, 
+  threaded comments, and Firebase Firestore · 14 GitHub stars · 9 forks
 
 ---
 
