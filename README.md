@@ -44,7 +44,7 @@ interactive frontend experiments.
 - 450,000+ daily users and 13,000,000+ NIBs issued via [OSS RBA](https://oss.go.id) (Indonesian gov platform)
 - 3,000,000+ users reached via Google Ads Manager 360 integration on [Online Pajak](https://www.online-pajak.com/)
 - 40% performance improvement via SSR, ISR, lazy loading, and code splitting on [Female Daily](https://femaledaily.com/)
-- ISO 27001 audit passed with zero critical vulnerabilities on [Akar Inti Data](https://www.akarintidata.ai/)
+- ISO 27001 audit passed with zero critical vulnerabilities on [Akar Inti Data](https://akarintidata.com/)
 - 3rd place — Toptal Global Speed Coding Challenge, Indonesia (2021)
 
 ---
